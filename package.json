@@ -1,0 +1,23 @@
+{
+  "name": "firebase-tools",
+  "version": "1.0.0",
+  "description": "Docker image based on NodeJS official image with Firebase Tools installed.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidkassa/firebase-tools.git"
+  },
+  "keywords": [
+    "docker",
+    "firebase-tools",
+    "firestore"
+  ],
+  "author": "David Kassa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidkassa/firebase-tools/issues"
+  },
+  "homepage": "https://github.com/davidkassa/firebase-tools#readme",
+  "dependencies": {
+    "firebase-tools": "latest"
+  }
+}
