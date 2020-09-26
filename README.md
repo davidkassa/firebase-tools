@@ -1,5 +1,5 @@
 # firebase-tools
-[![](https://images.microbadger.com/badges/image/davidkassa/firebase-tools.svg)](https://microbadger.com/images/davidkassa/firebase-tools "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/davidkassa/firebase-tools.svg)](https://microbadger.com/images/davidkassa/firebase-tools "Get your own commit badge on microbadger.com") [![Build Status](https://travis-ci.org/davidkassa/firebase-tools.svg?branch=master)](https://travis-ci.org/davidkassa/firebase-tools)
+[![](https://images.microbadger.com/badges/image/davidkassa/firebase-tools.svg)](https://microbadger.com/images/davidkassa/firebase-tools "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/davidkassa/firebase-tools.svg)](https://microbadger.com/images/davidkassa/firebase-tools "Get your own commit badge on microbadger.com") [![Build Status](https://travis-ci.com/davidkassa/firebase-tools.svg?branch=main)](https://travis-ci.com/davidkassa/firebase-tools)
 
 Auto-updating [Docker](https://www.docker.com/) image based on [NodeJS](https://nodejs.org) official image with [Firebase Tools](https://firebase.google.com/docs/hosting/quickstart) installed.
 
